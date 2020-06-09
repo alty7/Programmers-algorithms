@@ -5,3 +5,6 @@ def solution(num):
     else:
         answer='Odd'
     return answer
+
+def solution2(num):
+    return 'Odd' if (num%2) else 'Even'
