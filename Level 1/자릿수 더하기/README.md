@@ -25,4 +25,4 @@ N|	answer
 9 + 8 + 7 = 24이므로 24를 return 하면 됩니다.
 
 **답안 작성 코드**
-- [Java](https://github.com/ssub-e/Programmers-algorithms/edit/master/Level%201/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0/solution.java)
+- [Java](https://github.com/ssub-e/Programmers-algorithms/blob/master/Level%201/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0/solution.java)
