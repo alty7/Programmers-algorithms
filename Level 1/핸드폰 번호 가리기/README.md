@@ -18,5 +18,5 @@ phone_number|	return
 
 **답안 작성 코드**
 
-- [Java]()
+- [Java](https://github.com/ssub-e/Programmers-algorithms/blob/master/Level%201/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0/solution.java)
 - [Python3]()
