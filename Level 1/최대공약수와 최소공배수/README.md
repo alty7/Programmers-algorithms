@@ -22,3 +22,7 @@ n|	m|	return
 
 입출력 예 #2   
 자연수 2와 5의 최대공약수는 1, 최소공배수는 10이므로 [1, 10]을 리턴해야 합니다.
+
+**작성 코드**
+링크
+https://github.com/ssub-e/Programmers-algorithms/blob/master/Level%201/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/solution.java
