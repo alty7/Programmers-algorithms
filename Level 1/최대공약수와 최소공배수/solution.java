@@ -12,7 +12,7 @@ class Solution {
                 gcd=i;
             }
         }
-        int lcm=n*m/gcd; //
+        int lcm=n*m/gcd; // 최소공배수
         
         int[] answer = {gcd, lcm};
         return answer;
