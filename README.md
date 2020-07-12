@@ -8,7 +8,7 @@ Java를 공부하고자 만들었으나 Python을 공부하면서 먼저 풀게�
 
 ## Contents
 
-+ [Level1](https://github.com/ssub-e/Programmers-algorithms/tree/master/Level%201 "Level1")
++ [Level 1](https://github.com/ssub-e/Programmers-algorithms/tree/master/Level%201)
 (34/40)
 
-+ [Level2](https://github.com/ssub-e/Programmers-algorithms/tree/master/Level%202)
++ [Level 2](https://github.com/ssub-e/Programmers-algorithms/tree/master/Level%202)
