@@ -1,5 +1,4 @@
 def solution(participant, completion):
-    answer = ''
     participant=sorted(participant)
     completion=sorted(completion)
     for p, c in zip(participant, completion):
