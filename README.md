@@ -9,7 +9,7 @@ Java를 공부하고자 만들었으나 Python을 공부하면서 먼저 풀게�
 ## Contents
 
 + [Level 1](https://github.com/ssub-e/Programmers-algorithms/tree/master/Level%201)
-(40/40)
+(41/41)
 
 + [Level 2](https://github.com/ssub-e/Programmers-algorithms/tree/master/Level%202)
-(6/54)
+(20/48)
