@@ -12,4 +12,4 @@ Java를 공부하고자 만들었으나 Python을 공부하면서 먼저 풀게�
 (41/41)
 
 + [Level 2](https://github.com/ssub-e/Programmers-algorithms/tree/master/Level%202)
-(20/48)
+(22/51)
